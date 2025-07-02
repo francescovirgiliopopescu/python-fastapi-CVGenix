@@ -1,0 +1,7 @@
+fastapi
+sqlalchemy
+requests
+psycopg2
+python-dotenv
+xml.etree.ElementTre
+reportlab
